@@ -14,7 +14,7 @@ a {
 }
 
 .message.message--unread {
-  border-left: 2px solid blue;
+  border-left: 3px solid blue;
 }
 
 .message__author {
